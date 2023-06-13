@@ -12,6 +12,8 @@ It has all the three push button and four led of the PICDEM FULL SPEED USB board
 
 The files has the pcb errors corrected. No need of extra wires.
 
+The files are in Easyeda format.
+
 ![a](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/PCB_PCB_18f4550_2023-06-13.png)
 
 ![b](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/Schematic_18f4550_2023-06-13.png)
