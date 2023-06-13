@@ -2,7 +2,13 @@
 
 This is a [PICDEM FULL SPEED USB](https://www.microchip.com/en-us/development-tool/DM163025) like PIC18f4550 demo board.
 
+It could use a xtal or oscillator for clock generation.
 
+All the PICDEM FULL SPEED USB demos works on the board.
+
+The power selection from usb line or external is selectable with the POWSEL jumper.
+
+It has all the three push button and four led of the PICDEM FULL SPEED USB board, with jumpers for connect or thisconnect them.
 
 ![a](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/PCB_PCB_18f4550_2023-06-13.png)
 
