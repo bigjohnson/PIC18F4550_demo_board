@@ -1,4 +1,9 @@
 # PIC18F4550_demo_board
+
+This is a [PICDEM FULL SPEED USB](https://www.microchip.com/en-us/development-tool/DM163025) like PIC18f4550 demo board.
+
+
+
 ![a](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/PCB_PCB_18f4550_2023-06-13.png)
 
 ![b](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/Schematic_18f4550_2023-06-13.png)
