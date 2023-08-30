@@ -28,6 +28,6 @@ The files are in Easyeda format.
 
 ![5](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/DSC00856_low.png)
 
-![6](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/wire1.png)
+![6](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/wire1.jpg)
 
-![7](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/wire2.png)
+![7](https://raw.githubusercontent.com/bigjohnson/bigjohnson.github.io/master/PIC18F4550_demo_board/wire2.jpg)
